@@ -1,8 +1,0 @@
-logging:
-  level:
-    root: INFO
-    com.example.Logging: DEBUG
-spring:
-  output:
-    ansi:
-      enabled: ALWAYS
